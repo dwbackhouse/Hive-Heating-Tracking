@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-"""
-#!/usr/bin
 
 import pickle
 import os.path
